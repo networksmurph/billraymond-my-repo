@@ -1,3 +1,3 @@
-<h1>aout us<h1>
+<h1>about us</h1>
   
-  welcome to MD
+  some infor about me
