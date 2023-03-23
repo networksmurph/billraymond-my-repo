@@ -1,3 +1,3 @@
 welcome to index
 
-[about us]{about.md}
+[about us](about.md)
